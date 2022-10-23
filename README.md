@@ -7,8 +7,9 @@ Ngôn ngữ được sử dụng trong game là  Java và thư viện đồ họ
 ### Mục lục:
 - [1. Hướng dẫn cài đặt](https://github.com/Hakuryo0413/BTL-Quick-Sort#1--h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t)
 - [2. Tư tưởng của giải thuật](https://github.com/Hakuryo0413/BTL-Quick-Sort#2-t%C6%B0-t%C6%B0%E1%BB%9Fng-c%E1%BB%A7a-gi%E1%BA%A3i-thu%E1%BA%ADt)
-- [3. Độ phức tạp của giải thuật](https://github.com/Hakuryo0413/BTL-Quick-Sort#3-%C4%91%E1%BB%99-ph%E1%BB%A9c-t%E1%BA%A1p-c%E1%BB%A7a-gi%E1%BA%A3i-thu%E1%BA%ADt)
-- [4. Nhận xét và đánh giá](https://github.com/Hakuryo0413/BTL-Quick-Sort#4-nh%E1%BA%ADn-x%C3%A9t-v%C3%A0-%C4%91%C3%A1nh-gi%C3%A1)
+- [3. Minh hoạ thuật toán](https://github.com/Hakuryo0413/BTL-Quick-Sort#3-minh-ho%E1%BA%A1-thu%E1%BA%ADt-to%C3%A1n)
+- [4. Độ phức tạp của giải thuật](https://github.com/Hakuryo0413/BTL-Quick-Sort#4-%C4%91%E1%BB%99-ph%E1%BB%A9c-t%E1%BA%A1p-c%E1%BB%A7a-gi%E1%BA%A3i-thu%E1%BA%ADt)
+- [5. Nhận xét và đánh giá](https://github.com/Hakuryo0413/BTL-Quick-Sort#5-nh%E1%BA%ADn-x%C3%A9t-v%C3%A0-%C4%91%C3%A1nh-gi%C3%A1)
 
 
 
