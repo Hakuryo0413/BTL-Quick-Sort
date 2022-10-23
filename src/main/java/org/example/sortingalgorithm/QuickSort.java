@@ -90,15 +90,3 @@ public class QuickSort extends AbstractSort {
 
 }
 
-/*
- * chá»�n key -> so sÃ¡nh -> Ä‘á»•i mÃ u -> chuyá»ƒn sang bÃªn trÃ¡i key // l <
- * r -> swap (a[l],a[r]) // l >= r -> swap (a[pos],a[r]) 18 4 7 1 25 42 9 Ä‘i
- * tá»« trÃ¡i tÃ¬m bÃ© , Ä‘i tá»« pháº£i tÃ¬m lá»›n lÆ°u l ,r , l=5,r=7; Ä‘á»•i
- * chá»— Ä‘i tá»« trÃ¡i,... pháº£i ... khi nÃ o l >r thÃ¬ Ä‘á»•i chá»— pos vÃ 
- * a[r] -> pos Ä‘Ãºng vá»‹ trÃ­ 9 4 7 1 18 42 25 pos = 1;l=1,r=4 a[l] = 9, a[r]
- * 1 ; l =4;r=4 -> 1 4 7 9 -> 9 Ä‘Ãºng 1 4 7 -> pos =1;l=1;r=3 , pos = 1;
- * l=2,r=1 -> -> pos Ä‘Ãºng vÃ­ trá»‹
- * 
- * 
- * 
- */

@@ -32,7 +32,19 @@ Ngôn ngữ được sử dụng trong game là  Java và thư viện đồ họ
 
 _Ở project này, mình minh hoạ cách chọn phần tử chốt ở cuối danh sách._
 
-### 3. Độ phức tạp của giải thuật
+### 3. Minh hoạ thuật toán
+ 
+   Màu sắc: 
+   - BLUE: màu các phần tử chưa được sắp xếp đúng vị trí.
+   - YELLOW: màu phần tử pivot.
+   - RED: màu phần tử được chọn để so sánh với phần tử pivot.
+   - GREEN: màu phần tử nhỏ hơn phần tử pivot.
+   - PURPLE: màu phần tử lớn hơn phần tử pivot.
+   - ORANGE: màu phần tử đã được sắp xếp đúng vị trí.
+   Code:
+    
+   
+### 4. Độ phức tạp của giải thuật
 
    Độ phức tạp của giải thuật QuickSort là : T(n) = T(k) + T(n-k-1) + O(n) , với k là số phần tử bên nửa trái. Từ đó, trong từng trường hợp :
 
@@ -40,7 +52,7 @@ _Ở project này, mình minh hoạ cách chọn phần tử chốt ở cuối d
 - Tốt nhất, ứng với k = n/2 T(n) = 2T(n/2) + O(n) = O(nlog(n))
 - Trung bình : T(n) = O(nlog(n))
 
-### 4. Nhận xét và đánh giá
+### 5. Nhận xét và đánh giá
 
    Mặc dù, thuật toán có độ phức tạp O(n^2) đối với trường hợp tồi tệ nhất. Tuy nhiên trong thực nghiệm, độ phức tạp trung bình của giải thuật ổn định ở mức O(n.log(n))
    Là một trong số những giải thuật có tốc độ nhanh, hiệu quả và phổ biến top đầu lớp các giải thuật sắp xếp ( QuickSort, HeapSort, MergeSort)
