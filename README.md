@@ -13,9 +13,9 @@ Ngôn ngữ được sử dụng trong game là  Java và thư viện đồ họ
 
 
 1.  Hướng dẫn cài đặt
-   -  Bước 1: Tải `JavaFX` ở [đây](https://gluonhq.com/products/javafx/).
-   - Bước 2: Tải project game về và mở `IntelliJ IDEA.`
-   - Bước 3: Chạy project theo như [Hướng dẫn](https://openjfx.io/openjfx-docs/).
+   - Bước 1: Tải project về và mở `IntelliJ IDEA.`
+   - Bước 2: Ở Maven tab, chọn Plugins -> compiler -> compiler:compile
+   - Bước 3: Sau khi compile , chọn Plugins -> javafx -> javafx:run.
 
 2. Tư tưởng của giải thuật
 
