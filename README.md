@@ -5,10 +5,10 @@ Trong Project này, mình xin trình bày minh hoạ sắp xếp Quick Sort. Ý 
 
 Ngôn ngữ được sử dụng trong game là  Java và thư viện đồ họa  JavaFX
 ### Mục lục:
-- [1. Hướng dẫn cài đặt](https://github.com/Hakuryo0413/QuickSort/blob/master/README.md#:~:text=v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1-,H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A0i%20%C4%91%E1%BA%B7t,-B%C6%B0%E1%BB%9Bc%201%3A%20T%E1%BA%A3i)
-- [2. Tư tưởng của giải thuật](https://github.com/Hakuryo0413/QuickSort/blob/master/README.md#:~:text=H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn.-,T%C6%B0%20t%C6%B0%E1%BB%9Fng%20c%E1%BB%A7a%20gi%E1%BA%A3i%20thu%E1%BA%ADt,-Gi%E1%BA%A3i%20thu%E1%BA%ADt%20Quick)
-- [3. Độ phức tạp của giải thuật](https://github.com/Hakuryo0413/QuickSort/blob/master/README.md#:~:text=cu%E1%BB%91i%20danh%20s%C3%A1ch.-,%C4%90%E1%BB%99%20ph%E1%BB%A9c%20t%E1%BA%A1p%20c%E1%BB%A7a%20gi%E1%BA%A3i%20thu%E1%BA%ADt,-%C4%90%E1%BB%99%20ph%E1%BB%A9c%20t%E1%BA%A1p)
-- [4. Nhận xét và đánh giá](https://github.com/Hakuryo0413/QuickSort/blob/master/README.md#:~:text=O(nlog(n))-,Nh%E1%BA%ADn%20x%C3%A9t%20v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1,-M%E1%BA%B7c%20d%C3%B9%2C%20thu%E1%BA%ADt)
+- [1. Hướng dẫn cài đặt](https://github.com/Hakuryo0413/BTL-Quick-Sort#1--h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t)
+- [2. Tư tưởng của giải thuật](https://github.com/Hakuryo0413/BTL-Quick-Sort#2-t%C6%B0-t%C6%B0%E1%BB%9Fng-c%E1%BB%A7a-gi%E1%BA%A3i-thu%E1%BA%ADt)
+- [3. Độ phức tạp của giải thuật](https://github.com/Hakuryo0413/BTL-Quick-Sort#3-%C4%91%E1%BB%99-ph%E1%BB%A9c-t%E1%BA%A1p-c%E1%BB%A7a-gi%E1%BA%A3i-thu%E1%BA%ADt)
+- [4. Nhận xét và đánh giá](https://github.com/Hakuryo0413/BTL-Quick-Sort#4-nh%E1%BA%ADn-x%C3%A9t-v%C3%A0-%C4%91%C3%A1nh-gi%C3%A1)
 
 
 
