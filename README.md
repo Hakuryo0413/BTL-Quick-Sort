@@ -41,7 +41,9 @@ _Ở project này, mình minh hoạ cách chọn phần tử chốt ở cuối d
    - GREEN: màu phần tử nhỏ hơn phần tử pivot.
    - PURPLE: màu phần tử lớn hơn phần tử pivot.
    - ORANGE: màu phần tử đã được sắp xếp đúng vị trí.
+
    Code:
+
      // arr[] --> Mảng cần được sắp xếp,
      // low --> chỉ mục bắt đầu,
      // high --> chỉ mục kết thúc
