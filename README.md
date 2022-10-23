@@ -12,12 +12,12 @@ Ngôn ngữ được sử dụng trong game là  Java và thư viện đồ họ
 
 
 
-###1.  Hướng dẫn cài đặt
+### 1.  Hướng dẫn cài đặt
    - Bước 1: Tải project về và mở `IntelliJ IDEA.`
    - Bước 2: Ở Maven tab, chọn Plugins -> compiler -> compiler:compile
    - Bước 3: Sau khi compile , chọn Plugins -> javafx -> javafx:run.
 
-###2. Tư tưởng của giải thuật
+### 2. Tư tưởng của giải thuật
 
    Giải thuật Quick Sort với tư tưởng chính :
    Lựa chọn một phần tử trong mảng đóng vai trò như một pivot, sau đó từ giá trị pivot này tiến hành phân lớp mảng thành 2 phần với một phần chỉ toàn gồm các phần tử nhỏ hơn hoặc bằng pivot, trong khi phần còn lại chứa các phần tử lớn hơn pivot.
@@ -32,7 +32,7 @@ Ngôn ngữ được sử dụng trong game là  Java và thư viện đồ họ
 
 _Ở project này, mình minh hoạ cách chọn phần tử chốt ở cuối danh sách._
 
-###3. Độ phức tạp của giải thuật
+### 3. Độ phức tạp của giải thuật
 
    Độ phức tạp của giải thuật QuickSort là : T(n) = T(k) + T(n-k-1) + O(n) , với k là số phần tử bên nửa trái. Từ đó, trong từng trường hợp :
 
@@ -40,7 +40,7 @@ _Ở project này, mình minh hoạ cách chọn phần tử chốt ở cuối d
 - Tốt nhất, ứng với k = n/2 T(n) = 2T(n/2) + O(n) = O(nlog(n))
 - Trung bình : T(n) = O(nlog(n))
 
-###4. Nhận xét và đánh giá
+### 4. Nhận xét và đánh giá
 
    Mặc dù, thuật toán có độ phức tạp O(n^2) đối với trường hợp tồi tệ nhất. Tuy nhiên trong thực nghiệm, độ phức tạp trung bình của giải thuật ổn định ở mức O(n.log(n))
    Là một trong số những giải thuật có tốc độ nhanh, hiệu quả và phổ biến top đầu lớp các giải thuật sắp xếp ( QuickSort, HeapSort, MergeSort)
