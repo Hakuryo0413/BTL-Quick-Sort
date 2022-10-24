@@ -34,7 +34,9 @@ Ngôn ngữ được sử dụng trong game là  Java và thư viện đồ họ
 _Ở project này, mình minh hoạ cách chọn phần tử chốt ở cuối danh sách._
 
 ### 3. Minh hoạ thuật toán
- 
+> Video minh họa: 
+> [Minh hoạ Quick Sort](https://youtu.be/C_UwmpVDi7w)
+
    Màu sắc: 
    - BLUE: màu các phần tử chưa được sắp xếp đúng vị trí.
    - YELLOW: màu phần tử pivot.
